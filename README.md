@@ -73,7 +73,7 @@ Mon objectif : Je cherche à intégrer une entreprise ou une organisation où je
       <h2>Contact</h2>
       <p>Si vous souhaitez me contacter, vous pouvez m'envoyer un message via les plateformes suivantes :</p>
       <ul>
-        <li>Email: <a href="mailto:ali@example.com">ali@example.com</a></li>
+        <li>Email: <a href="mailto:ali@example.com">alichoukatli@gmail.com</a></li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/ali-choukatli" target="_blank">Mon profil LinkedIn</a></li>
         <li>GitHub: <a href="https://github.com/ali" target="_blank">Mon profil GitHub</a></li>
       </ul>
