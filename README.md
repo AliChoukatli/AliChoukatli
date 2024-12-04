@@ -3,13 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <style>
+  <style>
+    /* Centrer le texte dans le conteneur */
     .container {
       font-size: 24px;
-      text-align: center; 
+      text-align: center; /* Centrer le texte dans l'élément */
       padding: 20px;
+      height: 100vh; /* Prendre toute la hauteur de la fenêtre */
+      display: flex;
+      justify-content: center; /* Centrer horizontalement */
+      align-items: center; /* Centrer verticalement */
     }
- </style>
+  </style>
 </head>
 
 <body>
