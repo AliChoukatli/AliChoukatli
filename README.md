@@ -14,10 +14,14 @@
 
   <section id="about">
     <div class="container">
-      <h2> À propos de moi</h2>
-      <p>Bachelier en cybersécurité, je combine une formation académique solide avec une expérience pratique dans des domaines variés tels que le support des systèmes informatique, les enquêtes numériques et cybercriminelles, la gestion des risques, et le service à la clientèle.
+      <h1> À propos de moi</h1>
+      <p>Bachelier en cybersécurité, je combine une formation académique solide avec une expérience pratique dans des domaines variés tels que le support des systèmes informatique, les enquêtes numériques et cybercriminelles, la gestion des risques, et le service à la clientèle.  </p> </div>
+  </section>
 
-# Compétences principales :
+<section id="skills">
+    <div class="container">
+      <h1>  Compétences principales : </h1>
+
 
 <p> ** <B>  Enquête informatique judiciaire : </B>
 ­Acquisition et analyse de preuves numériques (métadonnées, géolocalisation, adresses IP), rédaction de rapports d’enquête, et préparation de mandats de perquisition.</p>
@@ -33,24 +37,17 @@ Mon objectif : Je cherche à intégrer une entreprise ou une organisation où je
     </div>
   </section>
 
-  <section id="skills">
+  <section id="certif">
     <div class="container">
-      <h2>Compétences</h2>
-      <div class="skills">
-        <div class="card">
-          <h3>Cybersécurité</h3>
-          <p>Analyse des risques, tests d'intrusion, réponse aux incidents.</p>
-        </div>
-        <div class="card">
-          <h3>Assurance Qualité</h3>
-          <p>Tests manuels, automatisation des tests, suivi des bogues et validation.</p>
-        </div>
-        <div class="card">
-          <h3>Développement Web</h3>
-          <p>HTML, CSS, JavaScript, React, et conception responsive.</p>
-        </div>
-      </div>
+      <h2>Certifications</h2>
+      <p> CompTIA Security+ </p>
+      <p> Microsoft Azure AZ900</p>
+      <p> Google Cybersecurity </p>
+      <p> Microsoft M365 </p>
+      <p> CompTIA A+ </p>
     </div>
+    
+      
   </section>
 
   <section id="projects">
