@@ -1,5 +1,4 @@
-<html>
-<body>
+
 
 <header>
     <h1>Ali Choukatli</h1>
@@ -72,9 +71,6 @@
     <p>&copy; 2024 Ali Choukatli. Tous droits réservés.</p>
   </footer>
 
-</body>
-
-</html>
 
 
 ## Tools
