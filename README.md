@@ -3,15 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* Centrer le texte dans le conteneur */
+ <style>
     .container {
       font-size: 24px;
-      text-align: center; /* Centrer le texte dans l'élément */
-      padding: 20px; /* Ajouter un peu d'espace autour du texte */
+      text-align: center; 
+      padding: 20px;
     }
-  </style>
+ </style>
 </head>
+
 <body>
 
   <header>
@@ -85,4 +85,5 @@
   </footer>
 
 </body>
+
 </html>
