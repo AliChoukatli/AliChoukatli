@@ -3,16 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    /* Centrer le texte dans le conteneur */
-    .container {
-      font-size: 15 px;
-      text-align: center; /* Centrer le texte dans l'élément */
-      padding: 20 px;
-      justify-content: center;
-      
-    }
-  </style>
+ 
 </head>
 
 <body>
@@ -23,7 +14,7 @@
   </header>
 
   <section id="about">
-    <div class="container">
+    <div class="about">
       <h2> À propos de moi</h2>
       <p>Bachelier en cybersécurité, je combine une formation académique solide avec une expérience pratique dans des domaines variés tels que le support des systèmes informatique, les enquêtes numériques et cybercriminelles, la gestion des risques, et le service à la clientèle.  </p> 
     </div>
