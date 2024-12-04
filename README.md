@@ -14,16 +14,16 @@
 
   <section id="about">
     <div class="container">
-      <h2>À propos de moi</h2>
+      <h2> À propos de moi</h2>
       <p>Bachelier en cybersécurité, je combine une formation académique solide avec une expérience pratique dans des domaines variés tels que le support des systèmes informatique, les enquêtes numériques et cybercriminelles, la gestion des risques, et le service à la clientèle.
 
-Compétences principales :
+# Compétences principales :
 
- Enquête informatique judiciaire : 
-Acquisition et analyse de preuves numériques (métadonnées, géolocalisation, adresses IP), rédaction de rapports d’enquête, et préparation de mandats de perquisition.
-** Cybersécurité : Configuration de systèmes sécurisés (Active Directory, GPO), gestion des vulnérabilités (Nessus), et création de honeypots pour la surveillance des cyberattaques (brute force, scans).
-** Outils avancés : Utilisation d’outils Forensics (Autopsy, EnCase, FTK Imager) et d’analyse réseau (Wireshark, SIEM comme Azure Sentinel).
-** Support technique : Assistance clientèle, résolution de problèmes techniques, et optimisation des processus IT. 
+<p> ** Enquête informatique judiciaire : 
+­Acquisition et analyse de preuves numériques (métadonnées, géolocalisation, adresses IP), rédaction de rapports d’enquête, et préparation de mandats de perquisition.</p>
+<p> ** Cybersécurité : Configuration de systèmes sécurisés (Active Directory, GPO), gestion des vulnérabilités (Nessus), et création de honeypots pour la surveillance des cyberattaques (brute force, scans). </p>
+<p> ** Outils avancés : Utilisation d’outils Forensics (Autopsy, EnCase, FTK Imager) et d’analyse réseau (Wireshark, SIEM comme Azure Sentinel).</p>
+<p> ** Support technique : Assistance clientèle, résolution de problèmes techniques, et optimisation des processus IT. </p>
 
 Mes projets académiques et professionnels incluent la gestion des risques, l'analyse de logs, et les enquêtes numériques approfondies. Ces expériences m'ont permis de développer une approche rigoureuse et méthodique dans la résolution de problèmes.
 
