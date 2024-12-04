@@ -1,26 +1,78 @@
-# Hello, I'm CHANGEME
-<a href="www.linkedin.com/in/ali-choukatli"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+<header>
+    <h1>Ali Choukatli</h1>
+    <p> B.Sc en cybersécurité | CompTIA Security+ Certified </p>
+    <a href="www.linkedin.com/in/ali-choukatli"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>
+  </header>
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+  <section id="about">
+    <div class="about">
+      <h2> À propos de moi</h2>
+      <p>Bachelier en cybersécurité, je combine une formation académique solide avec une expérience pratique dans des domaines variés tels que le support des systèmes informatique, les enquêtes numériques et cybercriminelles, la gestion des risques, et le service à la clientèle.  </p> 
+    </div>
+  </section>
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+  <section id="skills">
+    <div class="container">
+      <h2>  Compétences principales : </h2>
+      <p><strong> Enquête informatique judiciaire : </strong> Acquisition et analyse de preuves numériques (métadonnées, géolocalisation, adresses IP), rédaction de rapports d’enquête, et préparation de mandats de perquisition.</p>
+      <p><strong> Cybersécurité : </strong> Configuration de systèmes sécurisés (Active Directory, GPO), gestion des vulnérabilités (Nessus), et création de honeypots pour la surveillance des cyberattaques (brute force, scans).</p>
+      <p><strong> Outils Forensics : </strong> Utilisation d’outils Forensics (Autopsy, EnCase, FTK Imager) et d’analyse réseau (Wireshark, SIEM comme Azure Sentinel).</p>
+      <p><strong> Support technique : </strong> Assistance clientèle, résolution de problèmes techniques, et optimisation des processus IT.</p>
+      <p>Mes projets académiques et professionnels incluent la gestion des risques, l'analyse de logs, et les enquêtes numériques approfondies. Ces expériences m'ont permis de développer une approche rigoureuse et méthodique dans la résolution de problèmes.</p>
+      <p>Mon objectif : Je cherche à intégrer une entreprise ou une organisation où je pourrai utiliser mes compétences en cybersécurité ou en investigations numériques pour protéger les données, gérer les risques, et résoudre des incidents critiques.</p>
+      <p>📩 N’hésitez pas à me contacter pour discuter d’opportunités en lien avec la cybersécurité, les enquêtes numériques, ou l’administration des systèmes.</p>
+    </div>
+  </section>
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+  <section id="certif">
+    <div class="container">
+      <h2>Certifications</h2>
+      <p> CompTIA Security+ </p>
+      <p> Microsoft Azure AZ900</p>
+      <p> Google Cybersecurity </p>
+      <p> Microsoft M365 </p>
+      <p> CompTIA A+ </p>
+    </div>
+  </section>
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+  <section id="projects">
+    <div class="container">
+      <h2>Projets</h2>
+      <div class="projects">
+        <div class="card">
+          <h3>Projet 1</h3>
+          <p>Un outil de test de sécurité automatisé développé avec Selenium et Python.</p>
+          <a href="https://github.com/yourusername/project1" target="_blank">Voir sur GitHub</a>
+        </div>
+        <div class="card">
+          <h3>Projet 2</h3>
+          <p>Une application web pour démontrer mes compétences en développement frontend avec React.</p>
+          <a href="https://github.com/yourusername/project2" target="_blank">Voir sur GitHub</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <h2>Contact</h2>
+      <p>Si vous souhaitez me contacter, vous pouvez m'envoyer un message via les plateformes suivantes :</p>
+      <ul>
+        <li>Email: <a href="mailto:ali@example.com">alichoukatli@gmail.com</a></li>
+        <li>GitHub: <a href="https://github.com/AliChoukatli" target="_blank">Mon profil GitHub</a></li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Ali Choukatli. Tous droits réservés.</p>
+  </footer>
+
+</body>
+
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
