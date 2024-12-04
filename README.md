@@ -4,7 +4,30 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-</head>lass="card">
+</head>
+<body>
+
+  <header>
+    <h1>Ali Choukatli</h1>
+    <p>Passionné de cybersécurité | Expert en Assurance Qualité | Développeur Web</p>
+  </header>
+
+  <section id="about">
+    <div class="container">
+      <h2>À propos de moi</h2>
+      <p>Je suis un professionnel de la cybersécurité et de l'assurance qualité avec un fort intérêt pour l'automatisation des tests et la gestion des risques. Mon objectif est d'apporter de la valeur en améliorant la sécurité et l'efficacité des systèmes en utilisant mes compétences en analyse des risques et en gestion de la continuité des affaires.</p>
+    </div>
+  </section>
+
+  <section id="skills">
+    <div class="container">
+      <h2>Compétences</h2>
+      <div class="skills">
+        <div class="card">
+          <h3>Cybersécurité</h3>
+          <p>Analyse des risques, tests d'intrusion, réponse aux incidents.</p>
+        </div>
+        <div class="card">
           <h3>Assurance Qualité</h3>
           <p>Tests manuels, automatisation des tests, suivi des bogues et validation.</p>
         </div>
