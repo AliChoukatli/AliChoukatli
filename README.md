@@ -9,13 +9,27 @@
 
   <header>
     <h1>Ali Choukatli</h1>
-    <p>Passionné de cybersécurité | Expert en Assurance Qualité | Développeur Web</p>
+    <p>B.Sc en cybersécurité | CompTIA Security+ Certified</p>
   </header>
 
   <section id="about">
     <div class="container">
       <h2>À propos de moi</h2>
-      <p>Je suis un professionnel de la cybersécurité et de l'assurance qualité avec un fort intérêt pour l'automatisation des tests et la gestion des risques. Mon objectif est d'apporter de la valeur en améliorant la sécurité et l'efficacité des systèmes en utilisant mes compétences en analyse des risques et en gestion de la continuité des affaires.</p>
+      <p>Bachelier en cybersécurité, je combine une formation académique solide avec une expérience pratique dans des domaines variés tels que le support des systèmes informatique, les enquêtes numériques et cybercriminelles, la gestion des risques, et le service à la clientèle.
+
+Compétences principales :
+
+ Enquête informatique judiciaire : 
+Acquisition et analyse de preuves numériques (métadonnées, géolocalisation, adresses IP), rédaction de rapports d’enquête, et préparation de mandats de perquisition.
+** Cybersécurité : Configuration de systèmes sécurisés (Active Directory, GPO), gestion des vulnérabilités (Nessus), et création de honeypots pour la surveillance des cyberattaques (brute force, scans).
+** Outils avancés : Utilisation d’outils Forensics (Autopsy, EnCase, FTK Imager) et d’analyse réseau (Wireshark, SIEM comme Azure Sentinel).
+** Support technique : Assistance clientèle, résolution de problèmes techniques, et optimisation des processus IT. 
+
+Mes projets académiques et professionnels incluent la gestion des risques, l'analyse de logs, et les enquêtes numériques approfondies. Ces expériences m'ont permis de développer une approche rigoureuse et méthodique dans la résolution de problèmes.
+
+Mon objectif : Je cherche à intégrer une entreprise ou une organisation où je pourrai utiliser mes compétences en cybersécurité ou en investigations numériques pour protéger les données, gérer les risques, et résoudre des incidents critiques.
+
+📩 N’hésitez pas à me contacter pour discuter d’opportunités en lien avec la cybersécurité, les enquêtes numériques, ou l’administration des systèmes..</p>
     </div>
   </section>
 
