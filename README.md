@@ -3,7 +3,7 @@
 <header>
     <h1>Ali Choukatli</h1>
     <p> B.Sc en cybersécurité | CompTIA Security+ Certified </p>
-    <a href="www.linkedin.com/in/ali-choukatli"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>
+    <a href="https://www.linkedin.com/in/ali-choukatli""><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>
   </header>
 
   <section id="about">
