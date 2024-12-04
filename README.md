@@ -3,14 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
+  <style>
+    /* Applique le style pour centrer le header */
+    header {
+      display: flex;
+      flex-direction: column; /* Empile le contenu verticalement */
+      justify-content: center; /* Centrer verticalement */
+      align-items: center; /* Centrer horizontalement */
+      text-align: center; /* Centrer le texte à l'intérieur des éléments */
+    }
+    /* Autres styles pour le texte du header */
+    h1 {
+      font-size: 36 px;
+    }
+    p {
+      font-size: 20 px;
+    }
+  </style>
 </head>
-
 <body>
 
   <header>
     <h1>Ali Choukatli</h1>
-    <p>B.Sc en cybersécurité | CompTIA Security+ Certified</p>
+    B.Sc en cybersécurité | CompTIA Security+ Certified
   </header>
 
   <section id="about">
