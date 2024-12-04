@@ -16,6 +16,7 @@
   <header>
     <h1>Ali Choukatli</h1>
     <p> B.Sc en cybersécurité | CompTIA Security+ Certified </p>
+    <a href="www.linkedin.com/in/ali-choukatli"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>
   </header>
 
   <section id="about">
@@ -73,8 +74,7 @@
       <p>Si vous souhaitez me contacter, vous pouvez m'envoyer un message via les plateformes suivantes :</p>
       <ul>
         <li>Email: <a href="mailto:ali@example.com">alichoukatli@gmail.com</a></li>
-        <a href="www.linkedin.com/in/ali-choukatli"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <li>GitHub: <a href="https://github.com/AliChoukatli" target="_blank">Mon profil GitHub</a></li>
+         <li>GitHub: <a href="https://github.com/AliChoukatli" target="_blank">Mon profil GitHub</a></li>
       </ul>
     </div>
   </section>
