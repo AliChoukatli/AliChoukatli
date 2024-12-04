@@ -75,7 +75,7 @@ Mon objectif : Je cherche à intégrer une entreprise ou une organisation où je
       <ul>
         <li>Email: <a href="mailto:ali@example.com">alichoukatli@gmail.com</a></li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/ali-choukatli" target="_blank">Mon profil LinkedIn</a></li>
-        <li>GitHub: <a href="https://github.com/ali](https://github.com/AliChoukatli" target="_blank">Mon profil GitHub</a></li>
+        <li>GitHub: <a href="https://github.com/AliChoukatli" target="_blank">Mon profil GitHub</a></li>
       </ul>
     </div>
   </section>
