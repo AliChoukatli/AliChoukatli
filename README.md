@@ -3,7 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+  <style>
+    /* Centrer le texte dans le conteneur */
+    .container {
+      font-size: 24px;
+      text-align: center; /* Centrer le texte dans l'élément */
+      padding: 20px; /* Ajouter un peu d'espace autour du texte */
+    }
+  </style>
 </head>
 <body>
 
@@ -14,26 +21,23 @@
 
   <section id="about">
     <div class="container">
-      <h1> À propos de moi</h1>
-      <p>Bachelier en cybersécurité, je combine une formation académique solide avec une expérience pratique dans des domaines variés tels que le support des systèmes informatique, les enquêtes numériques et cybercriminelles, la gestion des risques, et le service à la clientèle.  </p> </div>
+      <h2> À propos de moi</h2>
+      <p>Bachelier en cybersécurité, je combine une formation académique solide avec une expérience pratique dans des domaines variés tels que le support des systèmes informatique, les enquêtes numériques et cybercriminelles, la gestion des risques, et le service à la clientèle.  </p> 
+    </div>
   </section>
 
-<section id="skills">
+  <section id="skills">
     <div class="container">
-      <h1>  Compétences principales : </h1>
+      <h2>  Compétences principales : </h2>
 
+      <p><strong> Enquête informatique judiciaire : </strong> Acquisition et analyse de preuves numériques (métadonnées, géolocalisation, adresses IP), rédaction de rapports d’enquête, et préparation de mandats de perquisition.</p>
+      <p><strong> Cybersécurité : </strong> Configuration de systèmes sécurisés (Active Directory, GPO), gestion des vulnérabilités (Nessus), et création de honeypots pour la surveillance des cyberattaques (brute force, scans).</p>
+      <p><strong> Outils Forensics : </strong> Utilisation d’outils Forensics (Autopsy, EnCase, FTK Imager) et d’analyse réseau (Wireshark, SIEM comme Azure Sentinel).</p>
+      <p><strong> Support technique : </strong> Assistance clientèle, résolution de problèmes techniques, et optimisation des processus IT.</p>
 
-<p> ** <B>  Enquête informatique judiciaire : </B>
-­Acquisition et analyse de preuves numériques (métadonnées, géolocalisation, adresses IP), rédaction de rapports d’enquête, et préparation de mandats de perquisition.</p>
-<p> **  <B> Cybersécurité : Configuration de systèmes sécurisés (Active Directory, GPO), gestion des vulnérabilités (Nessus), et création de honeypots pour la surveillance des cyberattaques (brute force, scans). </B> </p>
-<p> **  <B>Outils Forensics : Utilisation d’outils Forensics (Autopsy, EnCase, FTK Imager) et d’analyse réseau (Wireshark, SIEM comme Azure Sentinel). </B></p>
-<p> **  <B>Support technique : Assistance clientèle, résolution de problèmes techniques, et optimisation des processus IT.  </B> </p>
-
-Mes projets académiques et professionnels incluent la gestion des risques, l'analyse de logs, et les enquêtes numériques approfondies. Ces expériences m'ont permis de développer une approche rigoureuse et méthodique dans la résolution de problèmes.
-
-Mon objectif : Je cherche à intégrer une entreprise ou une organisation où je pourrai utiliser mes compétences en cybersécurité ou en investigations numériques pour protéger les données, gérer les risques, et résoudre des incidents critiques.
-
-📩 N’hésitez pas à me contacter pour discuter d’opportunités en lien avec la cybersécurité, les enquêtes numériques, ou l’administration des systèmes..</p>
+      <p>Mes projets académiques et professionnels incluent la gestion des risques, l'analyse de logs, et les enquêtes numériques approfondies. Ces expériences m'ont permis de développer une approche rigoureuse et méthodique dans la résolution de problèmes.</p>
+      <p>Mon objectif : Je cherche à intégrer une entreprise ou une organisation où je pourrai utiliser mes compétences en cybersécurité ou en investigations numériques pour protéger les données, gérer les risques, et résoudre des incidents critiques.</p>
+      <p>📩 N’hésitez pas à me contacter pour discuter d’opportunités en lien avec la cybersécurité, les enquêtes numériques, ou l’administration des systèmes.</p>
     </div>
   </section>
 
@@ -46,8 +50,6 @@ Mon objectif : Je cherche à intégrer une entreprise ou une organisation où je
       <p> Microsoft M365 </p>
       <p> CompTIA A+ </p>
     </div>
-    
-      
   </section>
 
   <section id="projects">
