@@ -73,7 +73,7 @@
       <p>Si vous souhaitez me contacter, vous pouvez m'envoyer un message via les plateformes suivantes :</p>
       <ul>
         <li>Email: <a href="mailto:ali@example.com">alichoukatli@gmail.com</a></li>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/ali-choukatli" target="_blank">Mon profil LinkedIn</a></li>
+        <a href="www.linkedin.com/in/ali-choukatli"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <li>GitHub: <a href="https://github.com/AliChoukatli" target="_blank">Mon profil GitHub</a></li>
       </ul>
     </div>
