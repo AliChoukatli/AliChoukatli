@@ -19,11 +19,11 @@
 
 # Compétences principales :
 
-<p> ** Enquête informatique judiciaire : 
+<p> ** <B>  Enquête informatique judiciaire : </B>
 ­Acquisition et analyse de preuves numériques (métadonnées, géolocalisation, adresses IP), rédaction de rapports d’enquête, et préparation de mandats de perquisition.</p>
-<p> ** Cybersécurité : Configuration de systèmes sécurisés (Active Directory, GPO), gestion des vulnérabilités (Nessus), et création de honeypots pour la surveillance des cyberattaques (brute force, scans). </p>
-<p> ** Outils avancés : Utilisation d’outils Forensics (Autopsy, EnCase, FTK Imager) et d’analyse réseau (Wireshark, SIEM comme Azure Sentinel).</p>
-<p> ** Support technique : Assistance clientèle, résolution de problèmes techniques, et optimisation des processus IT. </p>
+<p> **  <B> Cybersécurité : Configuration de systèmes sécurisés (Active Directory, GPO), gestion des vulnérabilités (Nessus), et création de honeypots pour la surveillance des cyberattaques (brute force, scans). </B> </p>
+<p> **  <B>Outils Forensics : Utilisation d’outils Forensics (Autopsy, EnCase, FTK Imager) et d’analyse réseau (Wireshark, SIEM comme Azure Sentinel). </B></p>
+<p> **  <B>Support technique : Assistance clientèle, résolution de problèmes techniques, et optimisation des processus IT.  </B> </p>
 
 Mes projets académiques et professionnels incluent la gestion des risques, l'analyse de logs, et les enquêtes numériques approfondies. Ces expériences m'ont permis de développer une approche rigoureuse et méthodique dans la résolution de problèmes.
 
