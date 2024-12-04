@@ -6,13 +6,11 @@
   <style>
     /* Centrer le texte dans le conteneur */
     .container {
-      font-size: 24px;
+      font-size: 15 px;
       text-align: center; /* Centrer le texte dans l'élément */
-      padding: 20px;
-      height: 100vh; /* Prendre toute la hauteur de la fenêtre */
-      display: flex;
-      justify-content: center; /* Centrer horizontalement */
-      align-items: center; /* Centrer verticalement */
+      padding: 20 px;
+      justify-content: center;
+      
     }
   </style>
 </head>
