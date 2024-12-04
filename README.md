@@ -13,7 +13,6 @@
   </style>
 </head>
 <body>
-
   <header>
     <h1>Ali Choukatli</h1>
     <p> B.Sc en cybersécurité | CompTIA Security+ Certified </p>
