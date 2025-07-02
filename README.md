@@ -1,13 +1,13 @@
 # 👋 Bonjour, je suis Ali Choukatli
 
-🎓 Bachelier en cybersécurité | 🛡️ Passionné par la sécurité numérique, les enquêtes forensics, la sécurisation des endpoints et la gestion des identités  
+🎓 Bachelier en cybersécurité | 🛡️ Passionné par la sécurité numérique, les enquêtes forensics, la sécurisation des endpoints et la gestion des identités. 
 📍 Basé à Montréal | 💬 Langues : Français & Anglais
 
 ---
 
 ## 🔎 À propos de moi
 
-Diplômé en cybersécurité, je combine une formation académique rigoureuse avec des projets concrets dans des domaines essentiels tels que la **cybersécurité défensive**, les **enquêtes numériques**, l’**administration système** et le **cloud security**.
+Diplômé en cybersécurité de la Polytechnique de Montréal, je combine une formation académique rigoureuse avec des projets concrets dans des domaines essentiels tels que la **cybersécurité défensive**, les **enquêtes numériques**, l’**administration système** et le **cloud security**.
 
 🧪 J’ai récemment conçu **[CyberShield Enterprise](https://github.com/AliChoukatli/CyberShield-Enterprise)**, un laboratoire complet basé sur l’approche **Zero Trust**, simulant un environnement professionnel sécurisé. Ce projet met en œuvre :
 
