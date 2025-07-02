@@ -9,7 +9,7 @@
 
 🎓 **Bachelier en cybersécurité**, je combine une formation académique rigoureuse avec des projets pratiques avancés dans les domaines de la sécurité des systèmes, des enquêtes numériques, de la gestion des identités (IAM) et de la cybersécurité opérationnelle.
 
-🧪 J’ai récemment conçu **[CyberShield Enterprise](https://github.com/ton-profil/CyberShield-Enterprise)**, un laboratoire de cybersécurité basé sur l’architecture **Zero Trust**. Ce projet simule un environnement professionnel sécurisé incluant :
+🧪 J’ai récemment conçu **[CyberShield Enterprise](https://github.com/AliChoukatli/CyberShield-Enterprise)**, un Projet de cybersécurité basé sur l’architecture **Zero Trust**. Ce projet simule un environnement professionnel sécurisé incluant :
 
 - 🔐 **Gestion des identités et accès** : Active Directory, Azure AD (Entra ID), RBAC, MFA, Conditional Access
 - 💻 **Gestion des postes** : Microsoft Intune, stratégie de conformité, configuration de profils
@@ -41,23 +41,24 @@ Je souhaite intégrer une organisation où je pourrai mettre à profit mes comp�
 
 ## 🧠 Compétences Clés
 
-| Domaine                         | Compétences                                                                 |
-|-------------------------------|----------------------------------------------------------------------------|
-| 🕵️ Enquête numérique          | Analyse de preuves (métadonnées, IP, géoloc), rapports, mandats de perquisition |
-| 🛡️ Cybersécurité               | AD, GPO, vulnérabilités (Nessus), honeypots, hardening, BitLocker, LAPS   |
-| 🧰 Outils Forensics & SIEM     | Autopsy, EnCase, FTK Imager, Wireshark, Azure Sentinel                    |
-| 💻 Support technique          | Assistance utilisateur, résolution de problèmes, service à la clientèle    |
-| 🔐 IAM & Cloud Security        | Azure AD, MFA, Conditional Access, RBAC, Intune                           |
+| Domaine                         | Compétences                                                                    |
+|---------------------------------|--------------------------------------------------------------------------------|
+| 🕵️ Enquête numérique           | Analyse de preuves (métadonnées, IP, géoloc), rapports, mandats de perquisition |
+| 🛡️ Cybersécurité               | AD, GPO, vulnérabilités (Nessus), honeypots, hardening, BitLocker, LAPS         |
+| 🧰 Outils Forensics & SIEM     | Autopsy, EnCase, FTK Imager, Wireshark, Azure Sentinel                          |
+| 💻 Support technique           | Assistance utilisateur, résolution de problèmes, service à la clientèle         |
+| 🔐 IAM & Cloud Security        | Azure AD, MFA, Conditional Access, RBAC, Intune                                 |
 
 ---
 
 ## 🏆 Certifications
 
-- 📜 [CompTIA Security+](#)
-- ☁️ [Microsoft Azure AZ-900](#)
-- 📘 [Google Cybersecurity Certificate](#)
-- 💼 [Microsoft 365 Fundamentals](#)
-- 🛠️ [CompTIA A+](#)
+- 📜 Microsoft 365 Certified: Endpoint Administrator Associate (MD102) - En cours
+- 📜 [CompTIA Security+](#) - 2024
+- 📜 [Microsoft Azure AZ-900](#) - 2023
+- 📜 [Google Cybersecurity Certificate](#) - 2023
+- 📜 [Microsoft 365 Fundamentals](#)
+- 📜 [CompTIA A+](#)
 
 ---
 
