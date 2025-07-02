@@ -1,21 +1,21 @@
 # 👋 Bonjour, je suis Ali Choukatli
 
-🎓 Bachelier en cybersécurité | 🛡️ Passionné par la sécurité numérique, les enquêtes forensics, La securisation des endpoints et la gestion des identités.
-📍 Basé à Montreal | 💬 Langues : Français & Anglais
+🎓 Bachelier en cybersécurité | 🛡️ Passionné par la sécurité numérique, les enquêtes forensics, la sécurisation des endpoints et la gestion des identités  
+📍 Basé à Montréal | 💬 Langues : Français & Anglais
 
 ---
 
 ## 🔎 À propos de moi
 
-🎓 **Bachelier en cybersécurité**, je combine une formation académique rigoureuse avec des projets pratiques avancés dans les domaines de la sécurité des systèmes, des enquêtes numériques, de la gestion des identités (IAM) et de la cybersécurité opérationnelle.
+Diplômé en cybersécurité, je combine une formation académique rigoureuse avec des projets concrets dans des domaines essentiels tels que la **cybersécurité défensive**, les **enquêtes numériques**, l’**administration système** et le **cloud security**.
 
-🧪 J’ai récemment conçu **[CyberShield Enterprise](https://github.com/AliChoukatli/CyberShield-Enterprise)**, un Projet de cybersécurité basé sur l’architecture **Zero Trust**. Ce projet simule un environnement professionnel sécurisé incluant :
+🧪 J’ai récemment conçu **[CyberShield Enterprise](https://github.com/AliChoukatli/CyberShield-Enterprise)**, un laboratoire complet basé sur l’approche **Zero Trust**, simulant un environnement professionnel sécurisé. Ce projet met en œuvre :
 
-- 🔐 **Gestion des identités et accès** : Active Directory, Azure AD (Entra ID), RBAC, MFA, Conditional Access
-- 💻 **Gestion des postes** : Microsoft Intune, stratégie de conformité, configuration de profils
-- 🛡️ **Durcissement des endpoints** : GPO, BitLocker, LAPS, contrôle des accès, restriction RDP
-- ⚙️ **Détection et réponse** : Microsoft Defender for Endpoint (EDR), intégration avec Azure Sentinel (SIEM)
-- 🔍 **Surveillance & analyse** : collecte de logs, détection de comportements anormaux, alertes centralisées
+- 🔐 **Gestion des identités** : Active Directory, Azure AD (Entra ID), RBAC, MFA, Conditional Access  
+- 💻 **Gestion des postes** : Microsoft Intune, stratégies de conformité, profils de configuration  
+- 🛡️ **Durcissement** : GPO, BitLocker, LAPS, restriction RDP, segmentation réseau  
+- ⚙️ **Détection & réponse** : Defender for Endpoint (EDR), Azure Sentinel (SIEM)  
+- 🔍 **Surveillance** : collecte et analyse de logs, alerting, investigation
 
 ---
 
@@ -23,63 +23,42 @@
 
 | Domaine                  | Compétences clés                                                                 |
 |--------------------------|----------------------------------------------------------------------------------|
-| 🕵️ Enquête numérique     | Analyse de preuves numériques (métadonnées, IP, géoloc), rapports, mandats       |
-| 🛡️ Cybersécurité         | AD, GPO, Intune, durcissement, honeypots, gestion des vulnérabilités (Nessus)   |
-| 🔐 IAM & Cloud Security  | Azure AD, MFA, Conditional Access, RBAC, Intégration M365                        |
-| 🧰 Outils techniques      | FTK Imager, Autopsy, EnCase, Wireshark, Azure Sentinel, PowerShell, Python      |
-| 💻 Support technique     | Assistance utilisateurs, résolution d'incidents, service à la clientèle         |
-
----
-
-## 🎯 Objectif
-
-Je souhaite intégrer une organisation où je pourrai mettre à profit mes compétences en **cybersécurité défensive**, **investigation numérique**, et **administration des systèmes**, pour protéger les données, gérer les risques et répondre efficacement aux incidents.
-
-📩 N’hésitez pas à me contacter pour discuter d’opportunités en lien avec la cybersécurité, les enquêtes numériques, ou l’administration des systèmes.
-
----
-
-## 🧠 Compétences Clés
-
-| Domaine                         | Compétences                                                                    |
-|---------------------------------|--------------------------------------------------------------------------------|
-| 🕵️ Enquête numérique           | Analyse de preuves (métadonnées, IP, géoloc), rapports, mandats de perquisition |
-| 🛡️ Cybersécurité               | AD, GPO, vulnérabilités (Nessus), honeypots, hardening, BitLocker, LAPS         |
-| 🧰 Outils Forensics & SIEM     | Autopsy, EnCase, FTK Imager, Wireshark, Azure Sentinel                          |
-| 💻 Support technique           | Assistance utilisateur, résolution de problèmes, service à la clientèle         |
-| 🔐 IAM & Cloud Security        | Azure AD, MFA, Conditional Access, RBAC, Intune                                 |
+| 🕵️ Enquête numérique     | Analyse de preuves (métadonnées, IP, géoloc), rapports techniques, mandats       |
+| 🛡️ Sécurité des systèmes | AD, GPO, Intune, durcissement, honeypots, vulnérabilités (Nessus)                |
+| 🔐 IAM & Cloud Security  | Azure AD, MFA, Conditional Access, RBAC, Intégration Microsoft 365               |
+| 🧰 Forensics & SIEM      | FTK Imager, Autopsy, EnCase, Wireshark, Azure Sentinel                          |
+| 💻 Support technique     | Assistance utilisateur, diagnostic, résolution d’incidents                      |
+| ⚙️ Scripting & automatisation | PowerShell, Python, outils d’automatisation SOC                               |
 
 ---
 
 ## 🏆 Certifications
 
-- 📜 Microsoft 365 Certified: Endpoint Administrator Associate (MD102) - En cours
-- 📜 [CompTIA Security+](#) - 2024
-- 📜 [Microsoft Azure AZ-900](#) - 2023
-- 📜 [Google Cybersecurity Certificate](#) - 2023
-- 📜 [Microsoft 365 Fundamentals](#)
-- 📜 [CompTIA A+](#)
+- 📜 Microsoft 365 Certified: Endpoint Administrator Associate (MD-102) – *En cours*  
+- 📜 CompTIA Security+ – *2024*  
+- 📜 Microsoft Azure Fundamentals (AZ-900) – *2023*  
+- 📜 Google Cybersecurity Certificate – *2023*  
+- 📜 Microsoft 365 Fundamentals – *2023*
 
 ---
 
-## 🧪 Projets GitHub Sélectionnés
+## 🧪 Projets GitHub sélectionnés
 
-### 🚀 [CyberShield Enterprise (Zero Trust Security Lab)](https://github.com/ton-profil/CyberShield-Enterprise)
+### 🚀 [CyberShield Enterprise](https://github.com/AliChoukatli/CyberShield-Enterprise)
 
-> Un laboratoire complet simulant une architecture Zero Trust avec :
+> Un laboratoire Zero Trust complet avec :
 > - Active Directory, Azure AD, Intune, Microsoft 365, Defender
-> - Gestion des identités (IAM), durcissement des postes (GPO, BitLocker, LAPS)
-> - Intégration Sentinel pour détection d’incidents
+> - IAM, durcissement des endpoints (GPO, BitLocker, LAPS)
+> - SIEM avec Azure Sentinel pour la détection et la réponse aux incidents
 
-➡️ **Objectif :** Montrer mes compétences dans l’implémentation de solutions de sécurité modernes en entreprise.
+➡️ **Objectif :** Démontrer mes compétences en cybersécurité moderne et en architecture sécurisée.
 
 ---
 
 ## 📫 Contact
 
-- ✉️ Email : alichoukatli@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ton-profil/)  
-- 💻 [GitHub](https://github.com/ton-profil/)
+- ✉️ **Email** : alichoukatli@gmail.com  
+- 💼 **LinkedIn** : [Mon profil LinkedIn](www.linkedin.com/in/ali-choukatli)  
 
 ---
 
