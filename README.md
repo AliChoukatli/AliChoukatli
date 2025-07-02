@@ -19,7 +19,7 @@
       <p><strong> Enquête informatique judiciaire : </strong> Acquisition et analyse de preuves numériques (métadonnées, géolocalisation, adresses IP), rédaction de rapports d’enquête, et préparation de mandats de perquisition.</p>
       <p><strong> Cybersécurité : </strong> Configuration de systèmes sécurisés (Active Directory, GPO), gestion des vulnérabilités (Nessus), et création de honeypots pour la surveillance des cyberattaques (brute force, scans).</p>
       <p><strong> Outils Forensics : </strong> Utilisation d’outils Forensics (Autopsy, EnCase, FTK Imager) et d’analyse réseau (Wireshark, SIEM comme Azure Sentinel).</p>
-      <p><strong> Support technique : </strong> Assistance clientèle, résolution de problèmes techniques, et optimisation des processus IT.</p>
+      <p><strong> Support technique : </strong> Assistance clientèle, résolution de problèmes techniques.</p>
       <p>Mes projets académiques et professionnels incluent la gestion des risques, l'analyse de logs, et les enquêtes numériques approfondies. Ces expériences m'ont permis de développer une approche rigoureuse et méthodique dans la résolution de problèmes.</p>
       <p>Mon objectif : Je cherche à intégrer une entreprise ou une organisation où je pourrai utiliser mes compétences en cybersécurité ou en investigations numériques pour protéger les données, gérer les risques, et résoudre des incidents critiques.</p>
       <p>📩 N’hésitez pas à me contacter pour discuter d’opportunités en lien avec la cybersécurité, les enquêtes numériques, ou l’administration des systèmes.</p>
