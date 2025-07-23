@@ -21,14 +21,14 @@ Diplômé en cybersécurité de la Polytechnique de Montréal, je combine une fo
 
 ## ✅ Compétences principales
 
-| Domaine                  | Compétences clés                                                     |
-|--------------------------|----------------------------------------------------------------------|
-| 🕵️ Enquête numérique     | Analyse de preuves (métadonnées, IP, géoloc), rapports techniques   |
-| 🛡️ Sécurité des systèmes | AD, GPO, Intune, durcissement, honeypots, vulnérabilités (Nessus)   |
-| 🔐 IAM & Cloud Security  | Azure AD, MFA, Conditional Access, RBAC, Intégration Microsoft 365   |
-| 🧰 Forensics & SIEM      | FTK Imager, Autopsy, EnCase, Wireshark, Azure Sentinel               |
-| 💻 Support technique     | Assistance utilisateur, diagnostic, résolution d’incidents           |
-| ⚙️ Scripting & automatisation | PowerShell, Python, outils d’automatisation SOC                 |
+| Domaine                       | Compétences clés                                                     |
+|-------------------------------|----------------------------------------------------------------------|
+| 🕵️ Enquête numérique          | Analyse de preuves (métadonnées, IP, géoloc), rapports techniques   |
+| 🛡️ Sécurité des systèmes      | AD, GPO, Intune, durcissement, honeypots, vulnérabilités (Nessus)   |
+| 🔐 IAM & Cloud Security       | Azure AD, MFA, Conditional Access, RBAC, Intégration Microsoft 365   |
+| 🧰 Forensics & SIEM           | FTK Imager, Autopsy, EnCase, Wireshark, Azure Sentinel               |
+| 💻 Support technique          | Assistance utilisateur, diagnostic, résolution d’incidents           |
+| ⚙️ Scripting & automatisation | PowerShell, Bash                                                 |
 
 ---
 
