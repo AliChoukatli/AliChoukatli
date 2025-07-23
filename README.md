@@ -9,7 +9,7 @@
 
 Diplômé en cybersécurité de la Polytechnique de Montréal, je combine une formation académique rigoureuse avec des projets concrets dans des domaines essentiels tels que la **cybersécurité défensive**, les **enquêtes numériques**, l’**administration système** et le **cloud security**.
 
-🧪 J’ai récemment conçu **[CyberShield Enterprise](https://github.com/AliChoukatli/CyberShield-Enterprise)**, un laboratoire complet basé sur l’approche **Zero Trust**, simulant un environnement professionnel sécurisé. Ce projet met en œuvre :
+🧪 J’ai récemment conçu **[CyberShield Enterprise](https://github.com/AliChoukatli/CyberShield-Enterprise)**, un projet complet basé sur l’approche **Zero Trust**, simulant un environnement professionnel sécurisé. Ce projet met en œuvre :
 
 - 🔐 **Gestion des identités** : Active Directory, Azure AD (Entra ID), RBAC, MFA, Conditional Access  
 - 💻 **Gestion des postes** : Microsoft Intune, stratégies de conformité, profils de configuration  
