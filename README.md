@@ -1,8 +1,3 @@
-![Cyber Banner](https://raw.githubusercontent.com/AliChoukatli/MonDepot/main/banner.png)
-
-# 👋 Bonjour, je suis Ali Choukatli
-
-
 # 👋 Bonjour, je suis Ali Choukatli  
 
 🎓 **Bachelier en cybersécurité** | 🛡️ Passionné par la sécurité numérique, les enquêtes forensics, la sécurisation des endpoints et la gestion des identités  
