@@ -55,7 +55,7 @@ Diplômé en cybersécurité de la **Polytechnique de Montréal**, je combine un
 > - IAM, durcissement des endpoints (GPO, BitLocker, LAPS)  
 > - SIEM avec Azure Sentinel pour la détection et la réponse aux incidents
 
-![Architecture CyberShield Enterprise](
+![Architecture CyberShield Enterprise](https://github.com/AliChoukatli/CyberShield-Enterprise/blob/main/Screenshots/Architecture.jpg)
 
 ➡️ **Objectif :** Démontrer mes compétences en cybersécurité moderne et en architecture sécurisée.  
 
@@ -66,7 +66,9 @@ Diplômé en cybersécurité de la **Polytechnique de Montréal**, je combine un
 > - 🕸️ Déploiement d’un honeynet vulnérable (VM exposées)  
 > - 📊 Intégration avec **Azure Sentinel (SIEM + SOAR)**  
 > - 📑 Collecte de logs, création de règles de détection et playbooks automatisés  
-> - 🛡️ Investigations sur attaques réelles (RDP brute force, scans, malwares)  
+> - 🛡️ Investigations sur attaques réelles (RDP brute force, scans, malwares)
+
+![Architecture_SOC](https://github.com/AliChoukatli/CyberShield-SOC-Lab/blob/main/Screenshots/Architecture.png)
 
 ➡️ **Objectif :** Montrer mes compétences en **threat detection, incident response et SOC operations** dans un contexte cloud réel.  
 
