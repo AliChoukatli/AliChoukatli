@@ -26,14 +26,14 @@ Diplômé en cybersécurité de la **Polytechnique de Montréal**, je combine un
 
 ## ✅ Compétences principales  
 
-| Domaine                       | Compétences clés                                                     |
-|-------------------------------|----------------------------------------------------------------------|
-| 🛡️ Sécurité des systèmes      | AD, GPO, Intune, durcissement, honeypots, vulnérabilités (Nessus)   |
-| 🔐 IAM & Cloud Security       | Azure AD, MFA, Conditional Access, RBAC, Intégration Microsoft 365   |
-| 🧰 Forensics & SIEM           | FTK Imager, Autopsy, EnCase, Wireshark, Azure Sentinel               |
-| 💻 Support technique          | Assistance utilisateur, diagnostic, résolution d’incidents           |
-| ⚙️ Scripting & automatisation | PowerShell, Bash                                                     |
-| 🕵️ Enquête numérique          | Analyse de preuves (métadonnées, IP, géoloc), rapports techniques   |
+| Domaine                       | Compétences clés                                                                |
+|-------------------------------|---------------------------------------------------------------------------------|
+| 🛡️ Sécurité des systèmes      | AD, GPO, Intune, durcissement, honeypots, vulnérabilités (Nessus)               |
+| 🔐 IAM & Cloud Security       | Azure AD, MFA, Conditional Access, RBAC, Intégration Microsoft 365, Autopilot   |
+| 🧰 Forensics & SIEM           | FTK Imager, Autopsy, EnCase, Wireshark, Azure Sentinel                          |
+| 💻 Support technique          | Assistance utilisateur, diagnostic, résolution d’incidents                      |
+| ⚙️ Scripting & automatisation | PowerShell, Bash                                                                |
+| 🕵️ Enquête numérique          | Analyse de preuves (métadonnées, IP, géoloc), rapports techniques               |
 
 ---
 
@@ -53,7 +53,9 @@ Diplômé en cybersécurité de la **Polytechnique de Montréal**, je combine un
 > Un laboratoire Zero Trust complet avec :  
 > - Active Directory, Azure AD, Intune, Microsoft 365, Defender  
 > - IAM, durcissement des endpoints (GPO, BitLocker, LAPS)  
-> - SIEM avec Azure Sentinel pour la détection et la réponse aux incidents  
+> - SIEM avec Azure Sentinel pour la détection et la réponse aux incidents
+
+![Architecture CyberShield Enterprise](
 
 ➡️ **Objectif :** Démontrer mes compétences en cybersécurité moderne et en architecture sécurisée.  
 
