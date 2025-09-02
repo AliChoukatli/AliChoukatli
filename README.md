@@ -55,6 +55,19 @@ Diplômé en cybersécurité de la Polytechnique de Montréal, je combine une fo
 
 ---
 
+### 🔎 [CyberShield SOC Lab](https://github.com/AliChoukatli/CyberShield-SOC-Lab)
+
+Un projet pratique simulant un **SOC (Security Operations Center)** basé sur **Microsoft Azure + Sentinel**, avec un **honeynet déployé dans le cloud** pour attirer et analyser du trafic malveillant.
+
+- 🕸️ Déploiement d’un honeynet vulnérable (VM exposées)  
+- 📊 Intégration avec **Azure Sentinel (SIEM + SOAR)**  
+- 📑 Collecte de logs, création de règles de détection et playbooks automatisés  
+- 🛡️ Investigations sur attaques réelles (RDP brute force, scans, malwares)  
+
+➡️ **Objectif :** Montrer mes compétences en **threat detection, incident response et SOC operations** dans un contexte cloud réel.  
+
+---
+
 ## 📫 Contact
 
 - ✉️ **Email** : alichoukatli@gmail.com  
