@@ -10,7 +10,7 @@
 Diplômé en cybersécurité de la **Polytechnique de Montréal**, je combine une formation académique rigoureuse avec des projets concrets dans des domaines essentiels tels que la **cybersécurité défensive**, les **enquêtes numériques**, l’**administration système** et le **cloud security**.  
 
 🧪 J’ai récemment conçu :  
-- **[CyberShield Enterprise](https://github.com/AliChoukatli/CyberShield-Enterprise)** → un lab Zero Trust complet  
+- **[CyberShield Enterprise](https://github.com/AliChoukatli/CyberShield-Enterprise)** → un projet Zero Trust complet  
 - **[CyberShield SOC Lab](https://github.com/AliChoukatli/CyberShield-SOC-Lab)** → un lab SOC avec honeynet et Sentinel  
 
 ---
